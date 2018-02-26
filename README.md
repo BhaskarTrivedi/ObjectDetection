@@ -8,7 +8,7 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
 https://github.com/google/protobuf/releases
 
 3)Download Tensorflow model file from ( This is for complete tutorial if you are downloading this repositiory no need to download model 
-        as I am a downloaded and build project.
+        as I am a downloaded and build it).
 
 https://github.com/tensorflow/models
 
