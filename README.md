@@ -25,7 +25,7 @@ Pre-trained Model https://github.com/tensorflow/models/blob/master/research/obje
 run from models\research using Anaconda virtual environment (Tensorflow-GPU) python setup.py build python setup.py install pip install -e .
 
 5) DownLoadModel.py 
-        To download and save model
+        To download and save model.
 
 6) Detect.py 
         Code to detect object from image and web cam.
