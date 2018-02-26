@@ -38,3 +38,5 @@ run from models\research using Anaconda virtual environment (Tensorflow-GPU) pyt
         
         execut StartDetect.py to start web cam detection
         
+        https://github.com/BhaskarTrivedi/ObjectDetection/blob/master/object_detection/ObjectDetection.JPG
+        
