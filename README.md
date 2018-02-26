@@ -24,16 +24,16 @@ Pre-trained Model https://github.com/tensorflow/models/blob/master/research/obje
 
 run from models\research using Anaconda virtual environment (Tensorflow-GPU) python setup.py build python setup.py install pip install -e .
 
-5) DownLoadModel.py 
+5) DownLoadModel.py :
         To download and save model.
 
-6) Detect.py 
+6) Detect.py :
         Code to detect object from image and web cam.
 
-7)Prepare.py 
+7)Prepare.py :
         Create Modele download object and download the pretraing model
 
-8)StartDetect.py 
+8)StartDetect.py :
         Creat detection object and start detecting object from web cam.
         
         execut StartDetect.py to start web cam detection
